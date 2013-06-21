@@ -1,5 +1,5 @@
-
 Step 5: The secret message (THE FINAL STEP!)
+============================================
 
 Step live from: Wednesday April 24th 5 pm Eagle Time (6 pm CET/5 pm BST/noon ET/9 am PT)
 
@@ -11,7 +11,7 @@ In today's Genome Biology, we speak to the last surviving member of the King's t
 
 Gosling was a little disappointed when the double helix failed to have the immediate impact he hoped for, and drifted away from the biological realm altogether. He might therefore be interested to read the second piece we have put together for DNA60, in which a selection of Genome Biology's Editorial Board members highlight the big landmark moments of the sixty years of genome biology kick-started by the double helix. For those without a subscription, you can find out what the most popular choice was, and also read an excerpt (featuring the thoughts of Ford Doolittle and Steven Henikoff), over at Biome.
 
-The challenge
+**The challenge**
 
 For the final! challenge, aka Step 5, we return to the format used at our Beyond The Genome conferences. A secret message* has been embedded into an unknown genome using the encoding scheme developed by Church, Gao and Kosuri (see the provided set of instructions and scripts for more details). Your task is to identify the genome, identify the insertion, and then decode the insertion to arrive at the quote, ie the secret message.
 

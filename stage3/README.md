@@ -1,4 +1,5 @@
 Step 3: Expression analysis
+===========================
 
 Step live from: Tuesday April 23nd, 5 pm Eagle Time (6 pm CET/5 pm BST/noon ET/9 am PT)
 
@@ -6,9 +7,7 @@ In bringing high-throughput to the masses, microarrays were a big breakthrough i
 
 Of course, new analysis tools create a secondary demand for new visualization software, and so even more good news for bioinformaticians (we have also published examples of these tools in Genome Biology, including ExpressionPlot and ggbio).
 
-
-
-The challenge
+**The challenge**
 
 For the Step 3 challenge, we have simulated a pair (t1 and t2) of RNA-seq experiments in E. coli. One gene in particular has a transcript that is more differentially expressed (between the two experiments) than any other. In an ideal world, we would have biological replicates for each condition but, hey, this isn't an ideal world.
 

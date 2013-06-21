@@ -1,4 +1,5 @@
 Step 2: Gene finding
+====================
 
 Step live from: Monday April 22nd 5 pm Eagle Time (6 pm CET/5 pm BST/noon ET/9 am PT)
 
@@ -6,7 +7,7 @@ Genome annotation can be a devilish task but nature was kind enough to invent an
 
 As with motif detection, gene finding is one of the older forms of bioinformatics. But in this challenge, we’ve added a bit of a twist…
 
-The challenge
+**The challenge**
 
 For the Step 2 challenge, you will need to identify a secret phrase encrypted in a short genome. To unlock the code, you will need to do the following:
 

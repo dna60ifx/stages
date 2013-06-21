@@ -1,4 +1,5 @@
 Step 4: Metagenomics
+====================
 
 Step live from: Wednesday April 24th 5 pm Eagle Time (6 pm CET/5 pm BST/noon ET/9 am PT)
 
@@ -7,8 +8,7 @@ The metagenome, where a sample contains DNA derived from multiple, co-habiting s
 Alongside the wealth of new data, many novel methods have been developed to analyze the metagenome – many of which rely on 16S/18S as a phylogenetic marker. Examples published by Genome Biology include MetAMOS, Ray Meta, EMIRGE and LEfSe.
 
 
-
-The challenge
+**The challenge**
 
 For the Step 4 challenge, the task is to find the genus with the highest abundance in a simulated 16S metagenomic dataset.
 
