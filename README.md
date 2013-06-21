@@ -1,4 +1,4 @@
-stages
-======
+DNA60IFX Contest Stages
+=======================
 
-Contest data for each stage
+Here are the data for each stage of the contest
